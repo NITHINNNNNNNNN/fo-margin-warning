@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: fo-margin-warning
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn fo_warning_dashboard:server --bind 0.0.0.0:$PORT
+    envVars:
+      - key: DASH_USER
+        value: nithin
+      - key: DASH_PASS
+        value: FO@Warning2026

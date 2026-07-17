@@ -1,0 +1,6 @@
+dash==4.4.0
+plotly
+yfinance
+pandas
+dash-auth
+gunicorn

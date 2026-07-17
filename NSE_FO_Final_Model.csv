@@ -1,0 +1,164 @@
+Date,Circular_No,Category,Subject,Direction,Stock_Index,Event_Type,VIX_Level,VIX_5D_Change_Pct,Nifty_10D_HVol,Nifty_10D_Return,BankNifty_5D_HVol
+2018-01-09,NSE/CMPT/36706,Intra-day Loss Margin,Margin provisions for intra-day crystallised losses,,See PDF,,13.74,0.37,8.09,1.24,7.93
+2018-01-29,NSE/CMPT/36851,Other Margin Circular,Daily file for Exposure margin,,Multiple Stocks - MWPL,,17.51,25.25,7.73,3.64,10.28
+2018-01-30,NSE/CMPT/36865,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,17.89,16.24,7.72,3.62,10.08
+2018-02-27,NSE/CMPT/37068,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,13.7,-18.79,10.66,0.41,16.04
+2018-02-28,NSE/CMPT/37071,Additional Margin Measure,Additional Risk Management measures for long dated option contracts,Hike,See PDF,,13.92,-12.56,10.55,0.51,15.47
+2018-03-01,NSE/CMPT/37092,Intra-day Loss Margin,Margin provisions for intra-day crystallised losses,,See PDF,,13.81,-6.88,10.79,-0.5,16.38
+2018-03-23,NSE/CMPT/37279,Intra-day Loss Margin,Margin provisions for intra-day crystallised losses,,See PDF,,15.25,0.2,15.49,-1.1,13.21
+2018-03-27,NSE/CMPT/37325,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,15.2,-2.63,14.1,-2.84,19.82
+2018-04-27,NSE/CMPT/37652,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,12.04,-6.96,4.78,1.31,9.9
+2018-05-02,NSE/CMPT/37678,Additional Margin Measure,Additional Risk management measures for derivatives segment,,See PDF,,12.36,3.87,5.6,1.81,13.18
+2018-05-14,NSE/CMPT/37751,Client Margin Compliance,Client Margin Reporting,,See PDF,,13.98,1.6,8.35,1.07,6.54
+2018-05-16,NSE/CMPT/37770,Additional Margin Measure,Additional Risk Management measures for long dated option contracts,,See PDF,,13.17,-7.71,8.02,0.78,6.82
+2018-05-30,NSE/CMPT/37877,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,13.07,-7.7,12.22,-1.0,15.12
+2018-05-31,NSE/CMPT/37887,Additional Margin Measure,Additional Risk management measures for derivatives segment,,See PDF,,13.41,1.98,11.97,-0.64,14.92
+2018-06-22,NSE/CMPT/38123,Additional Exposure/Surveillance Margin,Additional Surveillance Margin,,See PDF,,12.45,3.15,7.2,-0.25,8.56
+2018-06-27,NSE/CMPT/38172,Additional Margin Measure,Additional Risk management measures for derivatives segment,,See PDF,,12.8,5.18,8.2,-0.81,10.28
+2018-06-28,NSE/CMPT/38188,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,13.51,8.51,9.14,-1.26,10.77
+2018-07-02,NSE/CMPT/38210,Additional Exposure/Surveillance Margin,Additional Surveillance Margin,,See PDF,,12.94,2.86,12.19,-0.79,10.61
+2018-07-06,NSE/CMPT/38269,Additional Exposure/Surveillance Margin,Additional Surveillance Margin,,See PDF,,12.58,-2.78,11.2,-0.67,7.85
+2018-07-30,NSE/CMPT/38456,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,12.31,-5.38,6.77,3.12,10.48
+2018-08-30,NSE/CMPT/38751,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,12.44,-2.51,8.81,2.25,13.06
+2018-09-01,NSE/CMPT/38768,Additional Exposure/Surveillance Margin,Additional Surveillance Margin in Equity Derivatives Segment,,See PDF,,12.6,2.94,7.76,1.83,11.25
+2018-09-04,NSE/CMPT/38807,Delivery Margin,Delivery margins for Physical Settlement in Equity Derivatives,,See PDF,,13.39,7.72,8.84,0.26,11.52
+2018-09-07,NSE/CMPT/38849,Other Margin Circular,Revised file format of Daily File for Exposure Margin,,See PDF,,13.72,8.89,9.88,-0.17,12.89
+2018-09-12,NSE/CMPT/38879,Additional Exposure/Surveillance Margin,Additional Surveillance Margin in Equity Derivatives Segment,,See PDF,,15.33,12.31,10.8,-3.46,10.17
+2018-09-25,NSE/CMPT/38967,Additional Margin Measure,Additional Margins in Equity Derivatives Segment,Hike,See PDF,,17.43,20.21,15.64,-5.36,19.03
+2018-09-27,NSE/CMPT/38997,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,17.09,21.98,15.9,-2.07,23.29
+2018-09-28,NSE/CMPT/39018,Additional Margin Measure,Additional Margin in Equity Derivatives Segment,,See PDF,,16.92,8.88,14.96,-3.45,23.22
+2018-10-12,NSE/CMPT/39152,Additional Margin Measure,Additional Margins in Equity Derivatives Segment,,See PDF,,20.55,4.16,23.42,-6.77,25.88
+2018-10-30,NSE/CMPT/39292,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,19.83,4.15,19.37,-2.49,19.16
+2018-11-29,NSE/CMPT/39537,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,17.96,-8.18,11.23,1.44,11.72
+2018-12-17,NSE/CMPT/39673,Framework Revision,Review of Risk Management Framework for Equity Derivatives Segment,,See PDF,,15.16,-25.83,19.19,-0.72,19.29
+2018-12-21,NSE/CMPT/39743,Additional Margin Measure,Additional Margins in Equity Derivatives Segment,,See PDF,,14.33,-5.47,15.63,2.41,15.46
+2018-12-26,NSE/CMPT/39766,Framework Revision,Review of Risk management framework for Equity Derivatives Segment,,See PDF,,15.75,8.02,16.09,1.08,14.74
+2018-12-26,NSE/CMPT/39767,Additional Exposure/Surveillance Margin,Additional Surveillance Margin in Equity Derivatives Segment,,See PDF,,15.75,8.02,16.09,1.08,14.74
+2018-12-28,NSE/CMPT/39799,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,16.07,12.14,13.19,-0.11,12.29
+2019-01-09,NSE/CMPT/39906,Framework Revision,Review of Risk management framework for Equity Derivatives Segment,,See PDF,,15.7,-4.21,9.95,1.3,11.33
+2019-01-15,NSE/CMPT/39947,Framework Revision,Review of Risk management framework for Equity Derivatives Segment,,See PDF,,16.16,2.93,9.24,-1.15,11.79
+2019-01-30,NSE/CMPT/40088,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,18.43,1.88,8.37,-2.19,9.69
+2019-02-27,NCL/CMPT/40327,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,17.11,0.29,11.24,0.04,11.38
+2019-03-15,NCL/CMPT/40458,Additional Margin Measure,Additional Margin in Equity Derivatives Segment,,See PDF,,15.15,1.41,8.6,5.1,11.28
+2019-03-26,NCL/CMPT/40549,Initial Margin Change,Initial Margins for BANKNIFTY contracts,,BankNifty,,16.67,-1.36,10.31,1.67,15.97
+2019-03-28,NCL/CMPT/40583,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,17.05,6.36,10.41,0.91,15.79
+2019-04-16,NCL/CMPT/40776,Additional Margin Measure,Additional Risk Management measures for long dated option contracts,,See PDF,,21.39,5.47,8.62,-0.2,11.9
+2019-04-26,NCL/CMPT/40862,Exposure Margin Update,Sub: Applicable Exposure Margin,,See PDF,,23.23,2.15,12.7,0.5,17.61
+2019-06-27,NCL/CMPT/41434,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,14.75,5.36,13.04,-0.56,14.28
+2019-07-31,NCL/CMPT/41751,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,13.61,6.66,8.43,-5.15,16.24
+2019-08-29,NCL/CMPT/42006,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,16.84,-5.66,16.99,0.15,27.1
+2019-09-16,NCL/CMPT/42144,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,14.12,-13.21,14.64,1.17,18.01
+2019-09-26,NCL/CMPT/42241,Delivery Margin,Delivery margins for Delivery Settlement in Equity Derivatives,,See PDF,,16.17,3.99,36.31,4.16,58.95
+2019-09-27,NCL/CMPT/42248,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,16.34,6.1,36.44,4.47,59.04
+2019-10-16,NCL/CMPT/42416,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,16.85,-1.81,15.1,-0.4,31.23
+2019-10-30,NCL/CMPT/42540,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,16.42,-2.32,11.36,3.93,14.5
+2019-11-08,NCL/CMPT/42629,Other Margin Circular,Introduction of Cross-Margining facility in respect of offsetting positions in co-related equity Indices,,See PDF,,15.21,-3.31,8.78,3.71,10.46
+2019-11-18,NCL/CMPT/42673,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,15.03,-5.23,7.47,0.04,15.25
+2019-11-28,NCL/CMPT/42781,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,14.62,-2.4,8.91,1.93,9.95
+2019-12-16,NCL/CMPT/42912,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,13.3,-8.9,9.58,0.32,15.17
+2019-12-26,NCL/CMPT/43024,Other Margin Circular,Introduction of Cross-Margining facility in respect of offsetting positions in co-related equity Indices,,Nifty50,,11.63,-5.75,7.69,2.56,8.69
+2019-12-30,NCL/CMPT/43056,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,10.53,-14.6,9.22,1.32,9.58
+2020-01-08,NCL/CMPT/43153,Other Margin Circular,Introduction of Cross-Margining facility in respect of offsetting positions in co-related equity Indices,,See PDF,,14.61,25.19,14.42,-1.32,19.05
+2020-01-16,NCL/CMPT/43238,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,14.12,0.86,15.05,0.5,20.98
+2020-01-17,NCL/CMPT/43262,Delivery Margin,Delivery margins for Delivery Settlement in Equity Derivatives,,See PDF,,14.18,0.71,14.74,1.05,20.23
+2020-01-30,NCL/CMPT/43379,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,16.5,4.04,10.66,-1.83,14.3
+2020-02-17,NCL/CMPT/43566,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,13.62,-4.15,14.61,3.46,17.45
+2020-02-24,NCL/CMPT/43634,Framework Revision,Review of Margin Framework for Cash and Derivatives segments (except for Commodity Derivatives segment),,See PDF,,13.7,0.59,10.48,-0.14,12.24
+2020-02-25,NCL/CMPT/43656,Client Margin Compliance,Margin obligations to be given by way of Pledge/ Re-pledge in the Depository System,,See PDF,,17.0,17.89,15.07,-1.68,14.51
+2020-02-27,NCL/CMPT/43699,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,18.26,30.24,13.18,-4.28,12.14
+2020-03-16,NCL/CMPT/43869,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,51.47,100.74,56.85,-11.13,65.2
+2020-03-30,NCL/CMPT/44027,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,70.39,-2.22,98.62,-5.84,118.38
+2020-04-16,NCL/CMPT/44138,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,49.74,-3.98,68.51,3.06,86.16
+2020-04-27,NCL/CMPT/44243,Framework Revision,Extension of implementation date of Circular on ???Review of Margin Framework for Cash and Derivatives segments (except for Commodity Derivatives Segment),,See PDF,,39.12,-9.99,31.41,0.47,58.34
+2020-04-29,NCL/CMPT/44271,Exposure Margin Update,Applicable Exposure Margin,,See PDF,,35.35,-17.45,30.35,5.1,57.6
+2020-05-15,NCL/CMPT/44391,Framework Revision,Review of Margin framework for Futures & Options Segment,,See PDF,,38.18,-0.6,35.64,-7.27,54.97
+2020-05-15,NCL/CMPT/44384,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,38.18,-0.6,35.64,-7.27,54.97
+2020-05-26,NCL/CMPT/44465,Client Margin Compliance,Implementation of Circular on ???Margin obligations to be given by way of Pledge / Re-pledge in the Depository System?????? Extension,,See PDF,,32.38,-20.87,29.62,-2.16,48.38
+2020-06-16,NCL/CMPT/44656,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,32.58,7.85,18.84,-1.66,39.4
+2020-07-03,NCL/CMPT/44900,Client Margin Compliance,Margin Obligations to be given by way of Pledge/ Re-pledge,,See PDF,,26.51,-7.76,16.43,3.0,31.9
+2020-07-16,NCL/CMPT/45027,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,26.29,5.54,15.72,0.63,27.83
+2020-07-21,NCL/CMPT/45088,Client Margin Compliance,Client Margin Reporting,,See PDF,,24.71,-7.24,17.43,2.06,28.48
+2020-07-22,NCL/CMPT/45102,Client Margin Compliance,Margin Obligations to be given by way of Pledge/ Re-pledge,,See PDF,,24.43,-7.07,16.84,4.26,30.75
+2020-08-14,NCL/CMPT/45343,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,20.57,-8.9,14.86,2.05,20.64
+2020-09-08,NCL/CMPT/45630,Client Margin Compliance,Client Margin Reporting,,See PDF,,22.01,0.96,17.42,-1.02,33.14
+2020-09-16,NCL/CMPT/45721,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,20.6,-7.33,13.71,-0.11,21.43
+2020-09-24,NCL/CMPT/45806,Other Margin Circular,Margin and Collateral Reports,,See PDF,,20.99,4.43,14.3,-2.77,21.91
+2020-10-06,NCL/CMPT/45956,Other Margin Circular,"Clearing, Settlement & Risk Management - Quarterly Option contracts on Nifty Bank Index",,Nifty,,19.7,0.66,24.7,2.25,36.73
+2020-10-16,NCL/CMPT/46052,Additional Exposure/Surveillance Margin,Additional Exposure margin on Securities under MWPL,,Multiple Stocks - MWPL,,22.06,8.24,17.24,2.31,29.54
+2020-11-17,NCL/CMPT/46358,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,19.7,-2.04,11.16,9.0,28.08
+2020-12-16,NCL/CMPT/46665,Additional Exposure/Surveillance Margin,Additional Exposure Margin on securities under MWPL,,Multiple Stocks - MWPL,,19.35,2.27,7.09,3.46,13.25
+2021-01-18,NCL/CMPT/47039,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,24.01,7.28,11.98,2.13,11.77
+2021-02-16,NCL/CMPT/47356,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,22.04,-8.01,8.16,4.55,18.56
+2021-03-09,NCL/CMPT/47585,Other Margin Circular,Computation of Margin Utilisation,,See PDF,,24.68,4.53,29.93,1.69,40.31
+2021-03-16,NCL/CMPT/47639,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,21.23,-13.98,18.07,1.14,23.43
+2021-04-16,NCL/CMPT/48000,Additional Exposure/Surveillance Margin,Additional Exposure Margins on Securities under MWPL,,Multiple Stocks - MWPL,,20.89,2.86,24.81,-0.74,41.61
+2021-04-16,NCL/CMPT/48009,Other Margin Circular,Computation of Margin Utilisation,,See PDF,,20.89,2.86,24.81,-0.74,41.61
+2021-05-17,NCL/CMPT/48279,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,20.27,-8.03,12.13,0.32,14.95
+2021-06-16,NCL/CMPT/48616,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,14.61,-0.95,7.1,1.88,12.83
+2021-07-16,NCL/CMPT/48958,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,12.27,-5.18,8.52,1.28,14.06
+2021-08-16,NCL/CMPT/49306,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,12.99,3.01,9.25,4.05,15.04
+2021-09-16,NCL/CMPT/49615,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,13.73,-4.72,6.09,2.6,8.74
+2021-10-18,NCL/CMPT/49977,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,15.77,0.77,9.85,4.6,11.26
+2021-11-16,NCL/CMPT/50312,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,15.47,-3.31,10.24,1.0,11.12
+2021-12-16,NCL/CMPT/50639,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities Under MWPL,,Multiple Stocks - MWPL,,17.22,3.73,18.21,-1.04,19.69
+2022-01-17,NCL/CMPT/51046,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,16.56,-6.33,10.18,3.57,15.96
+2022-02-16,NCL/CMPT/51344,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,20.61,11.05,28.78,-2.4,34.81
+2022-03-16,NCL/CMPT/51648,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,26.73,-2.69,24.77,0.34,34.52
+2022-04-18,NCL/CMPT/52021,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,17.79,-6.37,17.54,0.06,27.55
+2022-05-10,NCL/CMPT/52254,Other Margin Circular,Changes to the Framework to Enable Verification of Upfront Collection of Margins from Clients in Cash and Derivatives segments,,See PDF,,22.03,8.63,19.37,-3.85,18.98
+2022-05-16,NCL/CMPT/52303,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPl,,Multiple Stocks - MWPL,,23.49,6.63,14.47,-7.72,22.36
+2022-06-16,NCL/CMPT/52642,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,22.15,15.73,15.75,-5.63,17.71
+2022-07-18,NCL/CMPT/52997,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,17.6,-4.19,11.2,1.35,15.97
+2022-08-16,NCL/CMPT/53301,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,17.61,-6.92,6.18,3.15,10.22
+2022-09-16,NCL/CMPT/53720,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,18.39,3.78,9.18,1.93,13.35
+2023-02-01,NCL/CMPT/55468,Other Margin Circular,Changes to the Framework to Enable Verification of Upfront Collection of Margins from Clients in Cash and Derivatives Segments,,See PDF,,16.88,23.57,12.08,-2.17,22.65
+2023-04-26,NCL/COM/56503,Other Margin Circular,Changes to the Framework to Enable Verification of Upfront Collection of Margins from Clients in cash and Derivatives Segments,,See PDF,,11.52,-5.19,6.46,0.26,9.59
+2023-04-26,NCL/CMPT/56490,Other Margin Circular,Revised List of Cross Margin Exchange Traded Funds (ETFs),,Nifty50,,11.52,-5.19,6.46,0.26,9.59
+2023-04-26,NCL/CMPT/56502,Other Margin Circular,Changes to the Framework to Enable Verification of Upfront Collection of Margins from Clients in Cash and Derivatives Segments,,See PDF,,11.52,-5.19,6.46,0.26,9.59
+2023-05-16,NCL/CMPT/56719,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,13.17,3.86,10.11,1.38,17.06
+2023-06-16,NCL/CMPT/57142,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,11.08,-0.36,6.83,0.83,8.26
+2023-07-17,NCL/CMPT/57585,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,10.68,-6.81,7.6,1.25,6.7
+2023-08-16,NCL/CMPT/57976,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,12.0,5.91,9.27,-1.52,10.73
+2023-09-18,NCL/CMPT/58428,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,10.9,-3.96,4.27,3.4,7.97
+2023-10-16,NCL/CMPT/58948,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,10.62,-6.84,9.56,0.57,11.87
+2023-11-16,NCL/CMPT/59386,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,11.14,0.91,7.66,3.61,5.39
+2023-12-18,NCL/CMPT/59795,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,13.13,2.9,9.46,3.72,11.01
+2024-01-16,NCL/CMPT/60265,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,13.79,4.0,10.75,1.99,12.11
+2024-02-16,NCL/CMPT/60736,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,15.23,-1.42,9.59,0.26,18.71
+2024-03-18,NCL/CMPT/61177,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,13.69,-2.21,10.9,-1.41,9.0
+2024-04-16,NCL/CMPT/61610,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,12.47,7.41,9.77,-0.84,13.12
+2024-04-19,NCL/CMPT/61660,Other Margin Circular,Clearing Settlement and Risk Management- Nifty Next 50 Index,,Nifty,,13.04,17.37,10.44,-1.96,14.24
+2024-04-24,NCL/CMPT/61714,Other Margin Circular,Cross Margin benefits for offsetting positions having different expiry dates,,See PDF,,10.2,-19.18,11.68,-1.32,14.23
+2024-05-16,NCL/CMPT/62057,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,20.27,11.37,10.45,-1.98,9.82
+2024-06-18,NCL/CMPT/62462,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,12.82,-21.83,40.32,0.87,51.75
+2024-07-16,NCL/CMPT/62947,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,14.19,-0.63,6.1,1.92,12.18
+2024-07-18,NCL/CMPT/62978,Other Margin Circular,Cross Margin benefits for offsetting positions having different expiry dates,,See PDF,,14.22,-1.46,5.45,1.34,6.77
+2024-08-16,NCL/CMPT/63432,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,15.44,-6.99,18.84,-3.47,16.33
+2024-09-16,NCL/CMPT/64068,Additional Exposure/Surveillance Margin,Additional Exposure Margin On Securities under MWPL,,Multiple Stocks - MWPL,,12.55,-11.87,13.29,0.31,15.19
+2024-10-21,NCL/CMPT/64639,Extreme Loss Margin Change,Changes in Extreme Loss Margins,,Nifty,,13.04,0.31,8.68,0.24,14.49
+2024-11-18,NCL/CMPT/65101,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,14.78,2.14,14.81,-3.17,18.97
+2024-11-22,NCL/CMPT/65179,Margin Violation Penalty,Penalty and penal charges for Margin Violation,,See PDF,,15.99,3.56,9.09,-4.63,14.69
+2024-12-16,NCL/CMPT/65605,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,13.05,-7.51,8.15,2.03,9.46
+2025-01-16,NCL/CMPT/66158,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,15.26,4.09,11.89,-4.03,17.82
+2025-02-17,NCL/CMPT/66698,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,15.02,3.94,12.56,-1.85,13.59
+2025-03-17,NCL/CMPT/67136,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,13.28,-1.41,8.64,1.23,7.43
+2025-04-16,NCL/CMPT/67572,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,16.13,-29.22,29.31,-0.81,27.95
+2025-05-16,NCL/CMPT/68022,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,16.89,-21.91,25.16,2.94,23.1
+2025-06-16,NCL/CMPT/68546,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,15.08,2.65,10.61,0.01,11.64
+2025-07-16,NCL/CMPT/69143,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL ,,Multiple Stocks - MWPL,,11.48,-3.85,6.2,-1.01,5.98
+2025-08-18,NCL/CMPT/69688,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,12.36,2.74,9.33,0.27,9.4
+2025-09-16,NCL/CMPT/70221,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,10.4,-2.71,3.79,1.99,4.06
+2025-10-16,NCL/CMPT/70861,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,10.53,4.05,6.57,1.96,6.87
+2025-11-24,NCL/CMPT/71435,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,13.63,15.61,6.76,1.93,7.01
+2025-12-24,NCL/CMPT/71981,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,9.38,-4.67,7.42,1.63,5.69
+2026-01-20,NCL/CMPT/72397,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,11.83,4.05,6.72,-2.53,7.66
+2026-02-05,NCL/CMPT/72659,Other Margin Circular,Calendar Spread margin benefit for Single Stock Derivatives on expiry day,,See PDF,,12.25,-8.38,16.66,2.46,20.04
+2026-02-18,NCL/CMPT/72847,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,12.67,9.7,10.6,-0.2,10.15
+2026-02-20,NCL/CMPT/72906,Other Margin Circular,Calendar Spread margin benefit for Single Stock Derivatives on expiry day,,See PDF,,13.46,1.28,12.93,-0.93,13.09
+2026-03-17,NCL/CMPT/73313,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,21.6,14.23,21.33,-5.86,27.41
+2026-04-20,NCL/CMPT/73798,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,17.21,-8.7,22.78,7.22,33.47
+2026-05-11,NCL/CMPT/74141,Other Margin Circular,"Clearing, Settlement and Risk Management - BSE FOCUSED IT INDEX",,See PDF,,16.84,-7.98,11.38,1.16,19.62
+2026-05-19,NCL/CMPT/74286,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,19.63,1.82,16.54,-1.59,22.26
+2026-06-05,NCL/CMPT/74569,Extreme Loss Margin Change,Changes in Extreme Loss Margin file,,See PDF,,15.89,-1.85,12.54,-1.01,17.65
+2026-06-06,NCL/CMPT/74594,Extreme Loss Margin Change,Changes in Extreme Loss Margin file,,See PDF,,15.79,-4.53,12.34,-1.49,16.75
+2026-06-17,NCL/CMPT/74737,Additional Exposure/Surveillance Margin,Additional Exposure Margin on Securities under MWPL,,Multiple Stocks - MWPL,,13.36,-14.52,13.77,2.49,18.59
