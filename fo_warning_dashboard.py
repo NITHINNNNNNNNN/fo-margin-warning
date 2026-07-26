@@ -92,6 +92,7 @@ app = dash.Dash(__name__, title='F&O Margin Early Warning System')
 import dash_auth
 VALID_USERS = {"nithin": "FO@Warning2026"}
 auth = dash_auth.BasicAuth(app, VALID_USERS)
+server = app.server
 
 app.layout = html.Div([
 
